@@ -1,4 +1,5 @@
-## The prediction of the second Virial coefficient (B) of fluid mixtures
+
+## The prediction of the second Virial coefficient (B) of fluid mixtures.
 
 
 ANN model is proposed for the prediction of the B coefficient of organic and
