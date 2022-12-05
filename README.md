@@ -7,5 +7,5 @@ inorganic mixtures, reflecting the PVT (pressure, volume, temperature) behaviour
 the fluids’ critical properties, acentric factors and dipole moments as inputs. The fully connected
 multilayer perceptron was built by minimizing the mean percentage error between predicted values
 and more than 10000 experimental points of B available in the literature. The optimal ANN
-structure found is (11,60,60,1). The model gives very accurate results as its 10-fold cross-validation
+structure found gave very accurate results as its 10-fold cross-validation
 average root mean squared error is of 41 cm3/mol.
